@@ -3,7 +3,7 @@ HyFTech is a Matlab/Python toolbox includes Hyperspectral Feature Extraction Tec
 Shallow Unsupervised Feature Extraction:
 1- PCA: Principal Component Analysis
 2- MSTV: Multi-scale Structural Total Variation
-3- OTVCA: Orthogonal total variation component analysis
+3- OTVCA: Orthogonal Total Variation Component Analysis
 4- LPP: Locality Preserving Projection
 Shallow Supervised Feature Extraction:
 5- LDA: Linear Discriminant Analysis
