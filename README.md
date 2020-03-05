@@ -11,9 +11,9 @@ Shallow Supervised Feature Extraction:
 7- LSDR: Least-Squares Dimension Reduction
 8- JPlay: Joint & Progressive Learning Strategy
 Deep Feature Extraction:
-9- AEC: Stacked Autoencoder (SAE)? Different with the table
+9- SAE: Stacked Autoencoder 
 10- RNN: Recurrent Neural Network
 11- CNN: Convolutional Neural Network
-12- CAEN: Convolutional AE (CAE)? Different with the table
+12- CAE: Convolutional Autoencoder
 13- CRNN: Convolutional RNN
 14- PCNN: PCA is applied prior to CNN  
