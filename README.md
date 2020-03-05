@@ -13,16 +13,29 @@ Shallow Unsupervised Feature Extraction:
 2- MSTV: Multi-scale Structural Total Variation
 
 3- OTVCA: Orthogonal Total Variation Component Analysis
+
 4- LPP: Locality Preserving Projection
+
 Shallow Supervised Feature Extraction:
+
 5- LDA: Linear Discriminant Analysis
+
 6- CGDA: Collaborative Graph-based Discriminant Analysis
+
 7- LSDR: Least-Squares Dimension Reduction
+
 8- JPlay: Joint & Progressive Learning Strategy
+
 Deep Feature Extraction:
+
 9- SAE: Stacked Autoencoder 
+
 10- RNN: Recurrent Neural Network
+
 11- CNN: Convolutional Neural Network
+
 12- CAE: Convolutional Autoencoder
+
 13- CRNN: Convolutional RNN
+
 14- PCNN: PCA is applied prior to CNN  
