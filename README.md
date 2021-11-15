@@ -4,7 +4,7 @@ HyFTech is a Matlab/Python toolbox, which includes Hyperspectral Feature Extract
 
 https://arxiv.org/abs/2003.02822
 
-The paper provides a detailed and organized overview of hyperspectral feature extraction techniques, categorized into two general sections: shallow feature extraction techniques (further categorized into supervised and unsupervised) and deep feature extraction techniques. Each section provides a critical overview of the state-of-the-art that is mainly rooted in the signal and image processing, statistical inference, and machine (deep) learning fields. The toolbox also includes the Random Forest classifier plus training and test samples used for the Houston 2012 hyperspectral Dataset. The hyperspectral data can be downloaded here (http://hyperspectral.ee.uh.edu/?page_id=459). The shallow and deep feature extraction techniques given in HyFTech is listed below:
+The paper provides a detailed and organized overview of hyperspectral feature extraction techniques, categorized into two general sections: shallow feature extraction techniques (further categorized into supervised and unsupervised) and deep feature extraction techniques. Each section provides a critical overview of the state-of-the-art that is mainly rooted in the signal and image processing, statistical inference, and machine (deep) learning fields. The toolbox also includes the Random Forest classifier plus training and test samples used for the Houston 2013 hyperspectral Dataset. The hyperspectral data can be downloaded here (http://hyperspectral.ee.uh.edu/?page_id=459). The shallow and deep feature extraction techniques given in HyFTech is listed below:
 
 Shallow Unsupervised Feature Extraction:
 
